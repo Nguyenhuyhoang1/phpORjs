@@ -47,7 +47,7 @@ body {
 	background-color: #83acf1;
 	letter-spacing: 1px;
 	font-weight: bold;
-	margin-bottom: 70px;
+	margin-bottom: 30px;
 }
 
 .main button:hover {
@@ -70,6 +70,13 @@ body {
 	font-size: 16px;
 	top: 2px;
 }
+.main .forgot-password{
+    padding-bottom: 30px;
+}
+.main .forgot-password a{
+    color: #c17878;
+}
+
 
 
 
